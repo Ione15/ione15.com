@@ -1,0 +1,18 @@
+/* COMMENTARE */
+
+body {
+    background-color: rgb(211, 180, 201);
+    color: rgb(36, 0, 0);
+}
+
+header {
+    background-color: steelblue;
+    color: black;
+    padding: 1rem;
+}
+
+nav {
+    background-color: navy;
+    color: rgb(255, 223, 223);
+    padding: 0.4rem;
+}
